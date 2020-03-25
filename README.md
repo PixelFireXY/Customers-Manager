@@ -11,7 +11,6 @@ Simple MVC application using ASP.NET Core MVC<br />
 </ul>
 
 <ul>
-  <li><a href="https://en.wikipedia.org/wiki/Create,_read,_update_and_delete>CRUD</a> functions for customers</li>
   <li>Search bar for filter results base on Province and company name</li>
   <li>Local database for store customers</li>
   <li>Using of POCO classes</li>
