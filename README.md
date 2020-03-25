@@ -1,4 +1,4 @@
-# Customers Manager (ITALIAN)
+# Customers Manager (IT)
 
 Simple MVC application using ASP.NET Core MVC<br />
 <br />
