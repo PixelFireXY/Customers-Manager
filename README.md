@@ -20,3 +20,5 @@ Simple MVC application using ASP.NET Core MVC<br />
 <img src="https://github.com/PixelFireXY/Customers-Manager/blob/master/Screenshot%20(9).png?raw=true">
 <img src="https://github.com/PixelFireXY/Customers-Manager/blob/master/Screenshot%20(10).png?raw=true">
 <img src="https://github.com/PixelFireXY/Customers-Manager/blob/master/Screenshot%20(11).png?raw=true">
+<img src="https://github.com/PixelFireXY/Customers-Manager/blob/master/Screenshot%20(12).png?raw=true">
+<img src="https://github.com/PixelFireXY/Customers-Manager/blob/master/Screenshot%20(13).png?raw=true">
