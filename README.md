@@ -15,3 +15,8 @@ Simple MVC application using ASP.NET Core MVC<br />
   <li>Using of validation properties</li>
   <li>Customization of Views created with scaffolding</li>
 </ul>
+<br />
+<img src="https://github.com/PixelFireXY/Customers-Manager/blob/master/Screenshot%20(8).png?raw=true">
+<img src="https://github.com/PixelFireXY/Customers-Manager/blob/master/Screenshot%20(9).png?raw=true">
+<img src="https://github.com/PixelFireXY/Customers-Manager/blob/master/Screenshot%20(10).png?raw=true">
+<img src="https://github.com/PixelFireXY/Customers-Manager/blob/master/Screenshot%20(11).png?raw=true">
