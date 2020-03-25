@@ -5,6 +5,12 @@ Simple MVC application using ASP.NET Core MVC<br />
 <h2>Features:</h2>
 
 <ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+
+<ul>
   <li><a href="https://en.wikipedia.org/wiki/Create,_read,_update_and_delete>CRUD</a> functions for customers</li>
   <li>Search bar for filter results base on Province and company name</li>
   <li>Local database for store customers</li>
