@@ -56,6 +56,7 @@ namespace CustomersManager
                 endpoints.MapControllerRoute(
                     name: "default",
                     pattern: "{controller=Customers}/{action=Index}/{id?}");
+
             });
         }
     }
